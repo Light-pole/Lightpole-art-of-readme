@@ -13,3 +13,5 @@ Here are some of the activities it shall entail for registered citizens:
 - Input a passcode
 - Voting Section
 - Loans Section 
+
+For more enquires reaxch out to 09013688216
