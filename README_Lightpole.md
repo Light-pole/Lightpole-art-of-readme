@@ -8,10 +8,9 @@ Here are some of the activities it shall entail for registered citizens:
 1. Citizens will be given access to vote only during elections instead of going to polling centres and as a citizen you can even track the vote count by yourself. I beleive that with this we can substantially alleviate electoral malpratice.
 2. I believe that by giving access to connect to one's bank account. If there is any need for government loan or gifts, stuffs like that, it would be easily distributed per person.
 ## FEATURES
-- Login with your Email
-- Input your National Identity number (NIN)
-- Input a passcode
-- Voting Section
-- Loans Section 
+##### Login with your Email
+##### Input your National Identity number (NIN)
+##### Input a passcode
+##### Voting Section
+##### Loans Section 
 
-For more enquires reaxch out to 09013688216
