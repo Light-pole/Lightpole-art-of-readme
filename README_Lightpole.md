@@ -2,7 +2,7 @@
 I learned that a good README helps others understand what the project is about exactly and procedures on how to install it, and also how to use it.
 
 ## N'GOVERNMENT APPLICATION
-**This is going to be sort of a complex job, because it's going to be a nationwide application whereby all one needs is one's E-mail and National ID.**
+**This is going to be sort of a complex job, because it's going to be an application whereby all one needs is one's E-mail and National ID.**
 
 Here are some of the activities it shall entail for registered citizens:
 1. *Citizens will be given access to vote only during elections instead of going to polling centres and as a citizen you can even track the vote count by yourself. I beleive that with this we can substantially alleviate electoral malpratice.*
